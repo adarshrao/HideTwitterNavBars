@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "TwitterLesClut",
+  "version": "1.1",
+
+  "description": "Removes left and right dashboards from Twitter home page",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/"],
+      "css": ["twitterstyle.css"],
+      "run_at": "document_start"
+    }
+  ]
+}

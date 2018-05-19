@@ -1,0 +1,36 @@
+.dashboard-left {
+height:0;
+weight: 0;
+overflow: hidden;
+}
+
+.dashboard-right {
+height:0;
+weight: 0;
+overflow: hidden;
+}
+
+.timeline-tweet-box {
+height:0;
+weight: 0;
+overflow: hidden;
+}
+
+
+/* The following 3 CSS rules center the timeline which is left-aligned for some reason */
+
+.stream {
+margin:auto;
+}
+
+
+.moments {
+height: 0;
+width: 0;
+overflow: hidden;
+}
+
+body.three-col .content-main {
+  float: none;
+  margin: auto;
+}
