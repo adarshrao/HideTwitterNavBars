@@ -12,7 +12,7 @@ Modified Twitter (with extension enabled)
 
 ## The Release
 
-- Download the current release as .xpi here - https://github.com/adarshrao/HideFBFeatures/releases/tag/1.1
+- Download the current release as .xpi here - https://github.com/adarshrao/HideTwitterNavBars/releases/download/1.1/lesclutte-1.1-an.fx.xpi
 - Navigate to "About:Addons" in Firefox browser and 'install from file'
 
 ## From Source
